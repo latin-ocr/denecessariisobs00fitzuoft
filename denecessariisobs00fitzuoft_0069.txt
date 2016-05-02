@@ -1,0 +1,53 @@
+INTRODUCTION 39
+
+Two things strike one at once: in this system of arithmetic there
+is no zer0, and its place is supplied by a system of columns. Now
+this is the system of the abacus¹; and to save trouble we shall
+in future speak of the exchequer in its arithmetical sense as the
+abacus. This distinction between the arithmetic of the Arabians
+and the system of the abacus was profound. There is in the
+Dialogus one allusion to Arabian arithmetic ², contrasting it with
+the system of the abacus, but the contrast is obscured by the fact
+that the only operations employed in the Exchequer were those of
+addition and subtraction ³. It is not needful to discuss here the
+origin and history of the arithmetic of the abacus ⁴, especially as in
+some particulars the methods of the exchequer were peculiar to
+itself. The earlier abacists seem to have used pieces, each bearing
+a mark signifying one of the nine digits, to place in the columns of
+their abacus. At the Exchequer the calculator employs a device
+known as ‘ acervi numerales ⁵.' The nature of these we shall now
+consider ⁶. The earliest description of the system will be found in
+‘ The ground of Artes, teaching the work and practice of Arith-
+metic,’ published in 1543 by Robert Recorde. In this book three
+methods of reckoning by counters are described. The first system
+deals with arithmetic of numbers, and does not concern us. The
+second system is called the ‘merchant’s use‚' and may be briefiy
+described. The counters are arranged in rows, the pence nearest
+to the operator; above them the shillings, then the pounds, then
+scores of pounds, then hundreds, and so on. For the pence, 6d.
+is indicated by a counter placed above the line, and the remaining
+units by counters on the line. For the shillings‚ 105. is indicated
+by a counter above the line, 5s. by a counter on the line, but to the
+left hand of the units‚ and the units by counters grouped on the
+line. The pounds and scores of pounds are treated in the same
+
+¹ The ordinary columns of the abacus were for the units‚ tem, hundreds, &c.‚
+of common numbers. It was necessary to adapt it to the computation of
+money. Cf. Littre'‚ s.v. Echz'quier.
+
+² Dialogus, 1. v. L, ‘ secundum consuetum cursum scaccarii non legibus
+arithmeticis.’
+
+³ Division on the abacus was a formidable process. If the divisor were
+above 5, e. g. 7, the quotient was obtained by continually dividing the dividend
+by 10 and multiplying it by 3, and adding all the subsidiary quotients obtained by
+the successive divisions by 10. See Chasles, Hist. Geom. (1837) pp. 464 seqq.
+
+⁴ Those with patience for the task may consult Gerberti Opera Mathematica,
+edited by Dr. Nicolaus Bubnov, Berlin, 1899.
+
+⁵ Dialogus, 1. v. L.
+
+f⁸th. Pipe Roll Society, vol. VH. p. viii, sor Mr- Hubert Hall’s discussion
+o t e question.
+
